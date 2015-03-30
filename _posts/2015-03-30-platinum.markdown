@@ -1,0 +1,17 @@
+---
+layout: post
+title:  Platinum
+date:   2015-03-30
+categories: chemistry elements
+---
+Atomic number: 78
+
+Platinum is inert (does not react with oxygen).
+
+Platinum is very useful as a catalyst (for example in converting ammonia to nitric acid).
+
+Platinum is expensive to produce - 40 tons of rock will produce one ounce of platinum and half an ounce of iridium.
+
+References:
+
+[RSC Periodic Table](http://www.rsc.org/periodic-table)
