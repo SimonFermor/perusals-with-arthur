@@ -3,7 +3,7 @@ title: Arthur’s Learning Discoveries
 email: simon.fermor@gmail.org
 description: > # this means to ignore newlines until "baseurl:"
   Notes from exploring and discovering with Mom and Dad
-baseurl: “/perusals-with-arthur“ # the subpath of your site, e.g. /blog/
+baseurl: /perusals-with-arthur
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: zapolator
 github_username:  simonfermor
