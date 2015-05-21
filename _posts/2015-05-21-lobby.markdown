@@ -6,7 +6,9 @@ categories: words
 ---
 Snippet 1: 
 ----------
-Lobbying (also lobby) is the act of attempting to influence decisions made by officials in the government, most often legislators or members of regulatory agencies. [Wikipedia]
+Lobbying (also lobby) is the act of attempting to influence decisions made by officials in the government, most often legislators or members of regulatory agencies...
+
+([Wikipedia])
 
 Snippet 2: 
 ----------
@@ -18,8 +20,9 @@ Just one other fact you should know: According to government scientists, it caus
 
 The chemical industry is working frantically to suppress that scientific consensus — because it fears “public confusion.” Big Chem apparently worries that you might be confused if you learned that formaldehyde caused cancer of the nose and throat, and perhaps leukemia as well.
 
-The industry’s strategy is to lobby Congress to cut off money for the Report on Carcinogens, a 500-page consensus document published every two years by the National Institutes of Health, containing the best information about what agents cause cancer. If that sounds like shooting the messenger, well, it is.  
- [New York Times, 7 October, 2012]
+The industry’s strategy is to lobby Congress to cut off money for the Report on Carcinogens, a 500-page consensus document published every two years by the National Institutes of Health, containing the best information about what agents cause cancer. If that sounds like shooting the messenger, well, it is....
+
+([New York Times, 7 October, 2012])
 
 [Wikipedia]:   http://en.wikipedia.org/wiki/Lobbying   
 [New York Times, 7 October, 2012]: http://www.nytimes.com/2012/10/07/opinion/sunday/kristof-the-cancer-lobby.html
