@@ -17,8 +17,6 @@ Quote 2:
 --------
 Walking down lower Fifth Avenue yesterday morning... [New York Times, May 12, 1905]
 
-([New York Times, 7 October, 2012])
-
 [Wikipedia]:   http://en.wikipedia.org/wiki/Reciprocity   
 [New York Times, May 9, 2015]: http://nyti.ms/1ANk34U
 [New York Times, May 12, 1905]: http://nyti.ms/1BieAU7
