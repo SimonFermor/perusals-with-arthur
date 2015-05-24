@@ -1,0 +1,19 @@
+---
+layout: post
+title:  "Aide"
+date:   2015-05-25
+categories: words
+---
+
+Definition
+----------
+A person who acts as an assistant; specifically: a military officer who acts as an assistant to a superior officer [Merriam-Webster]
+
+Quote 1: 
+--------
+Affidavits House prosecutors sought to introduce today at the impeachment trial might open the door for a criminal investigation of the Presidential aide Sidney Blumenthal... [New York Times, February 8, 1999]
+
+[Merriam-Webster]:   http://www.merriam-webster.com/dictionary/aide  
+[New York Times, February 8, 1999]: http://www.nytimes.com/1999/02/09/us/the-president-s-trial-the-aide-inquiry-possible-after-affidavits.html
+
+
