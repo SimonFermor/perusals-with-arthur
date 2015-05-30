@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Taxonomy"
+date:   2015-05-27
+categories: words
+---
+
+Definition
+----------
+Taxonomy is the practice and science of classification. The word is also used as a count noun: a taxonomy, or taxonomic scheme, is a particular classification. The word finds its roots in the Greek τάξις, taxis (meaning 'order', 'arrangement') and νόμος, nomos ('law' or 'science'). (Google)
+
+Quote: 
+--------
+Bloom’s Taxonomy is a classification system developed in 1956 by education psychologist Benjamin Bloom to categorize intellectual skills and behavior important to learning. Bloom identified six cognitive levels: knowledge, comprehension, application, analysis, synthesis, and evaluation, with sophistication growing from basic knowledge-recall skills to the highest level, evaluation.... [Learn NC]
+  
+[Learn NC]: http://www.learnnc.org/lp/pages/4719
+
+
