@@ -9,7 +9,7 @@ Definition (Google)
 ----------
 1. The fact or state of being plural.
 "some languages add an extra syllable to mark plurality"
-2. The number of votes cast for a candidate who receives more than any other but does not receive an absolute majority.
+2. The number of votes cast for a candidate who receives more than any other but does not receive an absolute majority. (US)
 
 Quote: 
 --------
