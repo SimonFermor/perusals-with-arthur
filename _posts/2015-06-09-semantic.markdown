@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "Semantic"
+date:   2015-06-09
+categories: words
+---
+
+Definition
+----------
+The branch of linguistics and logic concerned with meaning. There are a number of branches and subbranches of semantics, including formal semantics, which studies the logical aspects of meaning, such as sense, reference, implication, and logical form, lexical semantics, which studies word meanings and word relations, and conceptual semantics, which studies the cognitive structure of meaning (Google).
+
+Quote 1: 
+--------
+"What if the computer not only display the contents of a page from the World Wide Web, but also grasp its meaning would? He could do things undreamed of its users - and perhaps soon, when the semantic network has been established." [Scientific American May 2001]
+
+Quote 2:
+--------
+An example from Arthur that illustrates how a sentence has meaning beyond the meaning of the individual words: 'Dad gets made at kid for spray painting' is not the same as 'spray paint gets made at dad for kidding'.
+
+[Scientific American May 2001]: http://www.scientificamerican.com/article/the-semantic-web/
+
